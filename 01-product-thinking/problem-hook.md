@@ -1,48 +1,37 @@
-# Problem Hook & Value Proposition: [StreamLine / RouteLogic / your initiative]
+# Problem Hook & Value Proposition: RouteLogic Velocity
 
 > **Module 1 · ★ Deliverable 1.** Repo file `01-product-thinking/problem-hook.md` — part of your submission.
-> Do the lab in the **Module 1 · Exercise 2 Guide** (linked from the Module 1 deck), then click **⬇ Download .md** — it saves as this exact file. Commit it here.
-> It becomes the **Problem, Value & Hypothesis** slide of your Module 6 final deck. (Your Module 1 · Exercise 1 discovery map lands in `strategic-map.md`.)
+> Items in [brackets] are facts from the RouteLogic brief that still need to be filled in.
 
 ## 1. Chosen scenario
 
-**Path:** _StreamLine Spotlight (B2C) · RouteLogic Velocity (B2B) · my own initiative_
+**Path:** RouteLogic Velocity (B2B)
 
-_One line on why you picked it._
+_Why: [one line, e.g. a systemic speed/clutter problem threatening a key account, and a clear initiative that addresses it]._
 
 ## 2. The strategic crisis
 
-_The big-picture business risk. If the company does nothing for 12 months, what happens to its market position?_
-
-> If we do nothing for 12 months, the company will…
+> If we do nothing for 12 months, the Anchor account [X% of ARR, renewal date] will likely leave, adoption will keep eroding [cite metric], and RouteLogic's reputation will shift to being a heavy, slow product. Competitors will take market share from the accounts we should be defending.
 
 ## 3. The moment of misery
 
-_The specific point where the product fails the user, forcing a manual workaround (Google, spreadsheets, group texts, a competitor)._
-
-> The user is currently forced to…
+> The user is currently forced to leave RouteLogic mid-workflow: when [core task, e.g. planning or re-planning routes] is slow or buried in clutter, they trial competitor products or build their own in-house tools and spreadsheets instead.
 
 ## 4. Problem hook
 
-_One urgent sentence fusing the business risk and the user pain, your pitch for why this is the most important thing to work on right now._
-
-> We must solve [business risk] by addressing [user pain]…
+> We must solve the risk of losing the Anchor account and our core user base by addressing the slowness and distraction that push users to competitors and in-house workarounds, so we can regain their trust in RouteLogic's core value.
 
 ## 5. Value proposition
 
-_Who it's for, the new value, and why it's urgent to launch now._
-
-> For **[who]**, we will **[value]** because **[urgent why]**.
+> For **our core users**, we will **make the core workflow faster and easier to use, and remove distractions** (Velocity), because **[urgent why: renewal date / competitor trials already under way / adoption trend]**.
 
 ## 6. Cold-read self-review
 
-_Read your hook back as a skeptical stakeholder. If you don't feel the urgency, that's your data._
-
 | Question | Your answer |
 |---|---|
-| Is the business risk high-stakes enough to justify a new initiative? | _____ |
-| Is the moment of misery systemic, or just an edge case? | _____ |
-| Does the value proposition actually remove the obstacle? | _____ |
+| Is the business risk high-stakes enough to justify a new initiative? | Yes. An Anchor account is at risk and adoption is eroding. [Add the number to make it undeniable.] |
+| Is the moment of misery systemic, or just an edge case? | Systemic. It hits core users in the core workflow. [Back with one data point.] |
+| Does the value proposition actually remove the obstacle? | Partly. It must name the specific slow or distracting step it fixes, otherwise it reads as a generic feature. |
 
 ## 7. Finalized hypothesis _(complete in Module 3)_
 
